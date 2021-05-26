@@ -1,5 +1,5 @@
 - 👋 Buenas, noches, tardes, mananas, lo que proceda
-- 👀 Estoy interesado en aprender a programar nivel MIT
+- 👀 Estoy interesado en aprender MUCHO (soy nuevo) mi sueno es el MIT
 - 💞️ Me gustaria colaborar en algo grande
 - 📫 Si quieres contactarme me puedes dar un toque a mi correo
 
