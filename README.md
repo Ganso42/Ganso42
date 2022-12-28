@@ -1,7 +1,7 @@
 - 👋 Buenas, noches, tardes, mananas, lo que proceda
-- 👀 Estoy interesado en aprender MUCHO (soy nuevo) mi sueno es el MIT
-- 💞️ Me gustaria colaborar en algo grande
-- 📫 Si quieres contactarme me puedes dar un toque a mi correo
+- 👀 Estoy interesado en aprender lo maximo que pueda
+- 💞️ Me gustaria hacer algo proyecto a largo plazo, solo o con alguien, pero todo a su debido tiempo...
+- 📫 Si por alguna razon quieres contactarme me puedes dar un toque a mi correo
 
 <!---
 Ganso42/Ganso42 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
